@@ -25,7 +25,7 @@ input.onButtonPressed(Button.B, function () {
         . . # . .
         `)
 })
-input.onGesture(Gesture.Shake, function () {
+input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     basic.showLeds(`
         . # . # .
         # # # # #

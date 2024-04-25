@@ -1,22 +1,22 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="o.q8:iioup0+(,R*:B@}" x="16" y="-53"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="b^t*Ejeo;C_NEM|Chrd="><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="o.q8:iioup0+(,R*:B@}" x="15" y="-2"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="b^t*Ejeo;C_NEM|Chrd="><field name="LEDS">`
         # . . . # 
         . # # # . 
         . # # # . 
         . # # # . 
         # . . . #
-        `</field></block></statement></block><block type="device_button_event" id="^vDgGZD0W;2M#A@x$O-i" x="290" y="-57"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="aMua!@}BJ(_|*_T%fIXk"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="^vDgGZD0W;2M#A@x$O-i" x="274" y="-4"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="aMua!@}BJ(_|*_T%fIXk"><field name="LEDS">`
         . # # # . 
         . # # # . 
         # # # # # 
         . . # . . 
         . . # . .
-        `</field></block></statement></block><block type="device_button_event" id="GJF!O$],=g(9E~q[eTuw" x="19" y="283"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="utrN5fdS,~;QVXY|z;Y,"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="GJF!O$],=g(9E~q[eTuw" x="14" y="312"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="utrN5fdS,~;QVXY|z;Y,"><field name="LEDS">`
         # # # # # 
         # # # # # 
         . . . . . 
         # . # . # 
         . . . . .
-        `</field></block></statement></block><block type="device_gesture_event" id="#/]%Y+T-,Ric2l_*4F``" x="315" y="287"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="DVGPt#;43Tb$AP[7tKe/"><field name="LEDS">`
+        `</field></block></statement></block><block type="input_logo_event" id="/bMB%WkxGxgQJn?i$RQK" x="278" y="314"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="DVGPt#;43Tb$AP[7tKe/"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # . # . # 
